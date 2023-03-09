@@ -1,2 +1,2 @@
-# arduino_projects
+# Arduino Projects
 My Arduino source code repo
